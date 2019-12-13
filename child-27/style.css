@@ -1,0 +1,48 @@
+/*
+ Theme Name:   Child 27
+ Theme URI:    http://example.com/twenty-fifteen-child/
+ Description:  Twenty Fifteen Child Theme
+ Author:       John Doe
+ Author URI:   http://example.com
+ Template:     twentyseventeen
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  twentyfifteenchild
+*/
+
+.main-navigation a{
+ border: 10px;
+ border-style: solid;
+}
+#text-6{
+
+}
+#secondary{
+background-image: url("https://i.gifer.com/LLuC.gif"); 
+}
+#secondary >p{
+display: none; 
+}
+#content{
+ 
+ 
+ 
+}
+#gifdelado{
+ background-repeat: repeat-x;
+}
+#content > div{
+ 
+}
+
+#page > div{
+ 
+}
+
+
+#text-6 > h2{
+ color:transparent;
+}
+
